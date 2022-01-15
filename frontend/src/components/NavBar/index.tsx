@@ -7,7 +7,7 @@ function Navbar() {
          <nav className="container">
             <div className="dsmovie-nav-content">
                <a href="/">
-                  <h1>DSMovie</h1>
+                  <h1>DSMovie - Classificação de Filmes</h1>
                </a>
                <a href="https://github.com/crspereira/sds6">
                   <div className="dsmovie-contact-content">
